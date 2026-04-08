@@ -58,6 +58,9 @@ open http://localhost:3000
 npm run build
 npm start
 ```
+### 📅 Calendar UI
+![Calendar](./assets/image1.png)
+![Calendar](./assets/image2.png)
 
 ## 🎮 How to Use
 
@@ -79,6 +82,3 @@ npm start
 - **Canvas API** — animated background
 - **localStorage** — note persistence
 
-## 📄 License
-
-MIT
